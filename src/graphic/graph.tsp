@@ -1,0 +1,15 @@
+NAME : /home/matt/workspace/CAOS/AntColonyOptimization/src/graphic/graph.tsp
+COMMENT : 8-city problem
+TYPE : TSP
+DIMENSION : 8
+EDGE_WEIGHT_TYPE : EUC_2D
+NODE_COORD_SECTION
+0 563 374
+1 505 239
+2 349 110
+3 177 325
+4 113 460
+5 337 527
+6 165 171
+7 521 621
+EOF
