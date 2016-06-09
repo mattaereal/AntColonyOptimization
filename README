@@ -1,3 +1,10 @@
-Esta investigación tiene como intención introducir Ant Colony Optimization y sus variaciones, una serie de algoritmos distribuidos que aplicaremos al problema del viajante (TSP), como complemento a los conocimientos adquiridos por la cátedra, en busca de un mejor entendimiento de metaheurísticas basadas en comportamiento natural. 
+# Ant Colony Optimization applied to Traveling Salesman Problem
 
-En este algoritmo, varias hormigas (o agentes) interactúan entre sí para intentar encontrar soluciones óptimas para el TSP. Las hormigas cooperan entre ellas utilizando un medio indirecto de comunicación, mediado por un rastro de feromona que van dejando en los arcos de cada intersección de par de nodos mientras construyen la solución. Además se hará una comparación con un algoritmo brindado en la cátedra Análisis y Diseño de Algoritmos 2 sobre cómo influye cada uno en costos de eficiencia computacional y complejidad algorítmica.
+## Introducción
+Esta investigación tiene como intención introducir Ant Colony Optimization y sus variaciones, una serie de algoritmos distribuidos que apliqué al problema del viajante (TSP), como complemento a los conocimientos adquiridos por la cátedra *Análisis y Diseños de Algoritmos II* de la *UNICEN*, en busca de un mejor entendimiento de metaheurísticas basadas en comportamiento natural.
+
+### Abstract
+En este algoritmo, varias hormigas (o agentes) interactúan entre sí para intentar encontrar soluciones óptimas para el TSP. Las hormigas cooperan entre ellas utilizando un medio indirecto de comunicación, mediado por un rastro de feromona que van dejando en los arcos de cada intersección de par de nodos mientras construyen la solución. Además se hará una comparación con un algoritmo brindado en la Análisis cátedra y Diseño de Algoritmos 2 sobre cómo influye cada uno en costos de eficiencia computacional y complejidad algorítmica.
+
+## Documento entregado
+https://docs.google.com/document/d/1Opai38Wf-H2-0Wr32FZ8cSdhRDu3soIGepzXzRtnJlI/edit?usp=sharing
